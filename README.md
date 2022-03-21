@@ -22,10 +22,10 @@
 
 | Num | content | Project | ⭐⭐⭐
 |---|:---:|:---:|:---:|
-|'G1'| 백본 네트워크 구조 상세분석 | | |
-|'G2'| ResNet Ablation Study | ResNet |:---:|
-|'G3'| Data Augmentation | | |
-|'G4'|  |  | |
+|`G1`| 백본 네트워크 구조 상세분석 | | |
+|`G2`| ResNet Ablation Study | ResNet |:---:|
+|`G3`| Data Augmentation | | |
+|`G4`|  |  | |
 
 
 <h4> Flipped School </h4>
