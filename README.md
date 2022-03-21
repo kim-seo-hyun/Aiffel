@@ -15,7 +15,7 @@
 - 2022.03.21 ~ 
 - https://aiffel.oopy.io/
 - ✔ Hackathon
-- GD, Programmers LV2, Flipped School, Hackathon, kaggle study
+- GD, Flipped School, Programmers LV2, Hackathon, kaggle study
 
 
 <h4> GoingDeeper </h4>
