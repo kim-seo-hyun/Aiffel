@@ -23,8 +23,8 @@
 | Num | content | Project | ⭐⭐⭐
 |---|:---:|:---:|:---:|
 |`G1`| 백본 네트워크 구조 상세분석 | | |
-|`G2`| ResNet Ablation Study | ResNet |:---:|
-|`G3`| Data Augmentation | | |
+|`G2`| ResNet Ablation Study | ResNet | |
+|`G3`| Data Augmentation | tf.image.augmentation | |
 |`G4`|  |  | |
 
 
