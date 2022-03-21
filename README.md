@@ -1,4 +1,4 @@
-<h2 align="center">  AIFFEL </h3>
+<h2 align="center">  AIFFEL2 </h3>
   
 <div align="right">
 
@@ -15,6 +15,7 @@
 - 2022.03.21 ~ 
 - https://aiffel.oopy.io/
 - ✔ Hackathon
+- GD, Programmers LV2, Flipped School, Hackathon, kaggle study
 
 
 <h4> GoingDeeper </h4>
@@ -25,7 +26,6 @@
 |'G2'| ResNet Ablation Study | ResNet |:---:|
 |'G3'| Data Augmentation | | |
 |'G4'|  |  | |
-
 
 
 <h4> Flipped School </h4>
