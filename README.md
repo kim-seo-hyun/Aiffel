@@ -23,10 +23,11 @@
 | Num | content | Project | ⭐⭐⭐
 |---|:---:|:---:|:---:|
 |`G1`| 백본 네트워크 구조 상세분석 | | |
-|`G2`| ResNet Ablation Study | ResNet | |
+|`G2`| ResNet Ablation Study | [Project01]ResNet | |
 |`G3`| Data Augmentation | [tf.image.augmentation](https://github.com/kim-seo-hyun/Aiffel2/blob/main/GoingDeeper/%5B03%5Dtf.image.augmentation.ipynb) | |
-|`G4`| Augmentation comparison  | CutMix, Mixup | |
-|`G5`| Class Activation Map | |
+|`G4`| Augmentation comparison  | [Project02]CutMix_Mixup | |
+|`G5`| Class Activation Map | CAM, Grad-CAM, AcoL, IoU, MaP |
+|`G6`| | |
 
 
 <h4> Flipped School </h4>
