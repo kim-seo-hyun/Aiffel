@@ -28,7 +28,7 @@
 |`G4`| Augmentation comparison  | [Project02]CutMix_Mixup | |
 |`G5`| Class Activation Map | CAM, Grad-CAM, AcoL, IoU, MaP |
 |`G6`| Class Activation Map build | |
-|`G7`| | |
+|`G7`| Object Detection | |
 
 
 <h4> Flipped School </h4>
