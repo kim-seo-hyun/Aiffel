@@ -27,7 +27,7 @@
 |`G3`| Data Augmentation | [tf.image.augmentation](https://github.com/kim-seo-hyun/Aiffel2/blob/main/GoingDeeper/%5B03%5Dtf.image.augmentation.ipynb) | |
 |`G4`| Augmentation comparison  | [[Project02]CutMix_Mixup](https://github.com/kim-seo-hyun/Aiffel2/blob/main/GoingDeeper/%5BProject02%5DCutMix_Mixup_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb) | |
 |`G5`| Class Activation Map | CAM, Grad-CAM, AcoL, IoU, MaP |
-|`G6`| Class Activation Map build | |
+|`G6`| Class Activation Map build | [[Project03]CAMvsGrad_CAM]([https://github.com/kim-seo-hyun/Aiffel2/blob/main/GoingDeeper/%5BProject03%5DCAMvsGrad_CAM.ipynb) |
 |`G7`| Object Detection | |
 |`G8`| Object Detection build | |
 |`G9`| Segmentation | |
