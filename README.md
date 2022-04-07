@@ -29,7 +29,7 @@
 |`G5`| Class Activation Map | CAM, Grad-CAM, AcoL, IoU, MaP |
 |`G6`| Class Activation Map build | [[Project03]CAMvsGrad_CAM](https://github.com/kim-seo-hyun/Aiffel2/blob/main/GoingDeeper/%5BProject03%5DCAMvsGrad_CAM.ipynb) |
 |`G7`| Object Detection | |
-|`G8`| Object Detection build | |
+|`G8`| Object Detection(RetinaNet) | [Project4]Object Detection |
 |`G9`| Segmentation | |
 |`G10`| Semantic Segmentation | |
 
