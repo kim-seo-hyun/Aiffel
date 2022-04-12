@@ -26,7 +26,7 @@
 |`G2`| ResNet Ablation Study | [[Project01]ResNet](https://github.com/kim-seo-hyun/Aiffel2/blob/main/GoingDeeper/%5BProject01%5DResNet.ipynb) | |
 |`G4`| Augmentation comparison  | [[Project02]CutMix_Mixup](https://github.com/kim-seo-hyun/Aiffel2/blob/main/GoingDeeper/%5BProject02%5DCutMix_Mixup_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb) | |
 |`G6`| Class Activation Map build | [[Project03]CAMvsGrad_CAM](https://github.com/kim-seo-hyun/Aiffel2/blob/main/GoingDeeper/%5BProject03%5DCAMvsGrad_CAM.ipynb) |
-|`G8`| Object Detection(RetinaNet) | [Project4]Object Detection |
+|`G8`| Object Detection(RetinaNet) | [[Project4]Object Detection](https://github.com/kim-seo-hyun/Aiffel2/blob/main/GoingDeeper/%5BProject04%5DObject_Detection.ipynb) |
 |`G10`| Semantic Segmentation | |
 
 
