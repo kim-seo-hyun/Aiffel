@@ -5,7 +5,7 @@ from PIL import Image
 import numpy as np
 import os
 
-st.set_option('deprecation.showfileUploaderEncoding', False)#FileUploaderEncodingWarning
+st.set_option('deprecation.showfileUploaderEncoding', False) #FileUploaderEncodingWarning
 # cascade classifier에 대해 사전 훈련 된 매개 변수로드
 try:
     face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
