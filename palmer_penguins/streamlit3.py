@@ -12,11 +12,7 @@ st.write("""
 1 젠투 펭귄(Gentoo Penguin): 머리에 모자처럼 둘러져 있는 하얀 털 때문에 알아보기가 쉽다. 암컷이 회색이 뒤에, 흰색이 앞에 있다. 
 2 아델리 펭귄(Adelie Penguin): 각진 머리와 작은 부리 때문에 알아보기 쉽고, 다른 펭귄들과 마찬가지로 암수가 비슷하게 생겼지만 암컷이 조금 더 작다.
 3 턱끈 펭귄(Chinstrap Penguin): 목에서 머리 쪽으로 이어지는 턱끈 같은 검은 털이 눈에 띈다. 
-데이터 출처  [palmerpenguins library](https://github.com/allisonhorst/palmerpenguins) 
-사용할 데이터 
-http://ai.shop2world.net/data/penguins.csv
-전체 파일 
-http://ai.shop2world.net/data/penguins.zip
+데이터 출처  [palmerpenguins library](https://github.com/allisonhorst/palmerpenguins)
 """)
 
 
