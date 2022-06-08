@@ -1,7 +1,5 @@
 # streamlit
 
-2022.05 ~
-
 https://streamlit.io/
 
 - **Prerequisites**
@@ -19,5 +17,5 @@ streamlit hello
 
 - **run**
 ```
-streamlit run app.py(파일이름)
+streamlit run app.py
 ```
