@@ -1,0 +1,13 @@
+
+- pandas
+- Matplotlib, Seaborn
+- git, github
+- beautifulsoup4, selenium
+- cohort analysis
+- LTV, AARRR, A/B Test, Cohort, Fuunnel emd
+- ADP
+- R, sql
+- Docker, 쿠버네티스
+- Hadoop, Spark
+- MLOpsPipeline
+- Azure, GCP
