@@ -18,7 +18,7 @@
 | Date | Project | URL | 
 |---|:---:|:---:|
 `2021.12.27` | Aiffel1 | https://github.com/kim-seo-hyun/Aiffel/tree/main/Aiffel1
-`2022.03.08 ~ 2022.03.11` | Datathon | https://github.com/kim-seo-hyun/datathon
+`2022.03.08 ~ 03.11` | Datathon | https://github.com/kim-seo-hyun/datathon
 `2022.03.16` | Aiffel2 | https://github.com/kim-seo-hyun/Aiffel/tree/main/Aiffel2
-`2022.05.03 ~ 2022.06.09` | Hackathon | https://github.com/GAN-ji/GAN-ji
+`2022.05.03 ~ 06.09` | Hackathon | https://github.com/GAN-ji/GAN-ji
 `2022.06.10` | Aiffel YJ campus graduation | ⭐⭐⭐⭐⭐
