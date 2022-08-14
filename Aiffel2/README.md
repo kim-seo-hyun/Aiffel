@@ -14,7 +14,6 @@
 
 - 2022.03.21 ~ 
 - https://aiffel.oopy.io/
-- ✔ Hackathon
 - GD, Flipped School, Programmers LV2, Hackathon, kaggle study
 
 
@@ -28,9 +27,3 @@
 |`G6`| Class Activation Map build | [[Project03]CAMvsGrad_CAM](https://github.com/kim-seo-hyun/Aiffel2/blob/main/GoingDeeper/%5BProject03%5DCAMvsGrad_CAM.ipynb) |
 |`G8`| Object Detection(RetinaNet) | [[Project4]Object Detection](https://github.com/kim-seo-hyun/Aiffel2/blob/main/GoingDeeper/%5BProject04%5DObject_Detection.ipynb) |
 |`G10`| Semantic Segmentation | |
-
-
-<h4> Flipped School </h4>
-
-| EX | Category | Project
-|---|:---:|:---:|
