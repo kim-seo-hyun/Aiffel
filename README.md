@@ -12,7 +12,7 @@
 
 <h4> Introduction </h4>
 
-- https://aiffel.oopy.io/
+- https://modulabs.co.kr/
 - 2021.12.27 ~ 2022.06.10 <br>
 
 | Date | Project | summary | 
