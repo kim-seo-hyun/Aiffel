@@ -14,6 +14,7 @@
 
 - 2021.12.27 ~ <br>
 - https://aiffel.oopy.io/
+- FD, EX, CS231, Programmers LV1, Datathon, kaggle study
 
 <h4> Exploration </h4>
 
