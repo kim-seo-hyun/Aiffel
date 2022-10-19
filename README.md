@@ -1,4 +1,4 @@
-<h2 align="center">  AIFFEL </h3>
+<h2 align="center">  AIFFEL </h2>
   
 <div align="right">
 
@@ -12,13 +12,13 @@
 
 <h4> Introduction </h4>
 
-- https://aiffel.oopy.io/
+- https://modulabs.co.kr/
 - 2021.12.27 ~ 2022.06.10 <br>
 
 | Date | Project | summary | 
 |---|:---:|:---:|
 `2021.12.27` | [Aiffel1](https://github.com/kim-seo-hyun/Aiffel/tree/main/Aiffel1) | CV, NLP, RecSys
 `2022.03.08 ~ 2022.03.11` | [Datathon](https://github.com/kim-seo-hyun/datathon) | Netflix dataset을 바탕으로 한 데이터 분석 및 시각화 프로젝트
-`2022.03.16` | [Aiffel2](https://github.com/kim-seo-hyun/Aiffel/tree/main/Aiffel2) | CV going deeper
+`2022.03.22` | [Aiffel2](https://github.com/kim-seo-hyun/Aiffel/tree/main/Aiffel2) | CV going deeper
 `2022.05.03 ~ 2022.06.09` | [Hackathon](https://github.com/GAN-ji/GAN-ji) | GAN을 이용한 맞춤 이모티콘 생성 서비스 배포 프로젝트
 `2022.06.10` | Aiffel YJ campus graduation | ⭐⭐⭐⭐⭐

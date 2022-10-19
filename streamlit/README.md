@@ -1,6 +1,7 @@
 # streamlit
 
-https://streamlit.io/
+- https://streamlit.io/
+- practice streamlit  
 
 - **Prerequisites**
  
