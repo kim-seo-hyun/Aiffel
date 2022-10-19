@@ -33,4 +33,7 @@
 | `12` | [NLP] Transformer | [Transfomer Chatbot](https://github.com/kim-seo-hyun/Aiffel/blob/main/Aiffel1/EXPLORATION/%5B12%5DTransfomer%20Chatbot.ipynb) | ⭐⭐⭐
 | `13` | [NLP] BERT | [KorQuAD-BERT](https://github.com/kim-seo-hyun/Aiffel/blob/main/Aiffel1/EXPLORATION/%5B13%5DKorQuAD-BERT.ipynb) | ⭐⭐⭐
 | `14` | RecSys | [CSR Matrix](https://github.com/kim-seo-hyun/Aiffel/blob/main/Aiffel1/EXPLORATION/%5B14%5DCSR%20Matrix.ipynb) | ⭐⭐⭐
-| `15` | [CV] OCR | OCR Service| 
+| `15` | [CV] OCR | [OCR Service](https://github.com/kim-seo-hyun/Aiffel/blob/main1/EXPLORATION/%5B15%5DOCR%20Service.ipynb)| ⭐⭐⭐
+| `16` | RecSys | [Session based Recommendation](https://github.com/kim-seo-hyun/Aiffel1/blob/main1/EXPLORATION/%5B16%5DSession%20Based%20Recommendation.ipynb) | ⭐⭐
+| `17` | [CV] Conditional GAN | [pix2pix_cityscapes](https://github.com/kim-seo-hyun/Aiffel1/blob/main1/EXPLORATION/%5B17%5Dpix2pix_cityscapes.ipynb) | ⭐⭐⭐
+
