@@ -19,18 +19,18 @@
 
 | EX | Category | Project | ⭐⭐⭐
 |---|:---:|:---:|:---:|
-| `01` | [CV] Image Classificaiton | [rock_scissor_paper](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B01%5Drock_scissor_paper.ipynb) | ⭐⭐
-| `02` | Classification | [Digits, Wine, and Breast Cancer Dataset](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B02%5DDigits%2C%20Wine%2C%20and%20Breast%20Cancer%20Dataset.ipynb) | ⭐⭐⭐
-| `03` | [CV] Face Detection | [camera_sticker](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B03%5Dcamera_sticker.ipynb) | ⭐⭐
-| `04` | [NLP] Text Generation | [Make a Lyricsht](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B04%5DMake%20a%20Lyricsht.ipynb) | ⭐⭐
-| `05` | Kaggle | [my_first_kaggle](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B05%5Dmy_first_kaggle%20(1).ipynb) | ⭐⭐
-| `06` | [NLP] Sentiment Analysis | [Sentimental_Classification_Naver_Mov](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B06%5DSentimental_Classification_Naver_Movie_Review..ipynb) | ⭐⭐⭐
-| `07` | [CV] Image Segmentation | [Shallow Focus With Computation](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B07%5DShallow%20Focus%20With%20Computation.ipynb) | ⭐⭐
-| `08` | [NLP] Text Summarization | [news_Summarization](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B08%5Dnews_Summarization.ipynb) | ⭐⭐
-| `09` | [CV] Medical Image Analysis | [Pneumonia Diagnosis Model](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B09%5DPneumonia%20Diagnosis%20Model.ipynb) | ⭐⭐⭐
-| `10` | [CV] Image Generation  | [Modeling DCGAN with CIFAR10](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B10%5D%20Modeling%20DCGAN%20with%20CIFAR10.ipynb) | ⭐⭐
-| `11` | Time Series | [ARIMA_Stock_Prediction](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B11%5DARIMA_Stock_Prediction.ipynb) | ⭐⭐⭐
-| `12` | [NLP] Transformer | [Transfomer Chatbot](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B12%5DTransfomer%20Chatbot.ipynb) | ⭐⭐⭐
-| `13` | [NLP] BERT | [KorQuAD-BERT](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B13%5DKorQuAD-BERT.ipynb) | ⭐⭐⭐
-| `14` | RecSys | [CSR Matrix](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B14%5DCSR%20Matrix.ipynb) | ⭐⭐⭐
+| `01` | [CV] Image Classificaiton | [rock_scissor_paper](https://github.com/kim-seo-hyun/Aiffel/blob/main/Aiffel1/EXPLORATION/%5B01%5Drock_scissor_paper.ipynb) | ⭐⭐
+| `02` | Classification | [Digits, Wine, and Breast Cancer Dataset](https://github.com/kim-seo-hyun/Aiffel/blob/main/Aiffel1/EXPLORATION/%5B02%5DDigits%2C%20Wine%2C%20and%20Breast%20Cancer%20Dataset.ipynb) | ⭐⭐⭐
+| `03` | [CV] Face Detection | [camera_sticker](https://github.com/kim-seo-hyun/Aiffel/blob/main/Aiffel1/EXPLORATION/%5B03%5Dcamera_sticker.ipynb) | ⭐⭐
+| `04` | [NLP] Text Generation | [Make a Lyricsht](https://github.com/kim-seo-hyun/Aiffel/blob/main/Aiffel1/EXPLORATION/%5B04%5DMake%20a%20Lyricsht.ipynb) | ⭐⭐
+| `05` | Kaggle | [my_first_kaggle](https://github.com/kim-seo-hyun/Aiffel/blob/main/Aiffel1/EXPLORATION/%5B05%5Dmy_first_kaggle%20(1).ipynb) | ⭐⭐
+| `06` | [NLP] Sentiment Analysis | [Sentimental_Classification_Naver_Mov](https://github.com/kim-seo-hyun/Aiffel/blob/main/Aiffel1/EXPLORATION/%5B06%5DSentimental_Classification_Naver_Movie_Review..ipynb) | ⭐⭐⭐
+| `07` | [CV] Image Segmentation | [Shallow Focus With Computation](https://github.com/kim-seo-hyun/Aiffel/blob/main/Aiffel1/EXPLORATION/%5B07%5DShallow%20Focus%20With%20Computation.ipynb) | ⭐⭐
+| `08` | [NLP] Text Summarization | [news_Summarization](https://github.com/kim-seo-hyun/Aiffel/blob/main/Aiffel1/EXPLORATION/%5B08%5Dnews_Summarization.ipynb) | ⭐⭐
+| `09` | [CV] Medical Image Analysis | [Pneumonia Diagnosis Model](https://github.com/kim-seo-hyun/Aiffel/blob/main/Aiffel1/EXPLORATION/%5B09%5DPneumonia%20Diagnosis%20Model.ipynb) | ⭐⭐⭐
+| `10` | [CV] Image Generation  | [Modeling DCGAN with CIFAR10](https://github.com/kim-seo-hyun/Aiffel/blob/main/Aiffel1/EXPLORATION/%5B10%5D%20Modeling%20DCGAN%20with%20CIFAR10.ipynb) | ⭐⭐
+| `11` | Time Series | [ARIMA_Stock_Prediction](https://github.com/kim-seo-hyun/Aiffel/blob/main/Aiffel1/EXPLORATION/%5B11%5DARIMA_Stock_Prediction.ipynb) | ⭐⭐⭐
+| `12` | [NLP] Transformer | [Transfomer Chatbot](https://github.com/kim-seo-hyun/Aiffel/blob/main/Aiffel1/EXPLORATION/%5B12%5DTransfomer%20Chatbot.ipynb) | ⭐⭐⭐
+| `13` | [NLP] BERT | [KorQuAD-BERT](https://github.com/kim-seo-hyun/Aiffel/blob/main/Aiffel1/EXPLORATION/%5B13%5DKorQuAD-BERT.ipynb) | ⭐⭐⭐
+| `14` | RecSys | [CSR Matrix](https://github.com/kim-seo-hyun/Aiffel/blob/main/Aiffel1/EXPLORATION/%5B14%5DCSR%20Matrix.ipynb) | ⭐⭐⭐
 | `15` | [CV] OCR | OCR Service| 
